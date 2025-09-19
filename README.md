@@ -5,12 +5,15 @@
 
 ### 🚀 Projetos em Destaque
 
-Aqui estão alguns dos projetos que tenho mais orgulho:
+#### Gerador de planilhas Trakt.tv
+* **Descrição:** Projeto para geração de um excel dos filmes ou séries assistidos na plataforma [trakt.tv](https://trakt.tv/).
+* **Tecnologias Usadas:** `HTML`, `CSS`, `Javascript`
+* [GITHUB](https://github.com/marlonvtomazin/traktApiV2) | [Link da aplicação](https://traktapiv2.netlify.app/)
 
 #### Weather Forecast
 * **Descrição:** Projeto simples que busca a previsão do tempo com base na cidade digitada.
 * **Tecnologias Usadas:** `HTML`, `CSS`, `Javascript`
-* [GITHUB](https://github.com/marlonvtomazin/weatherForecast) | [Link](https://weatherforecastv1.netlify.app/)
+* [GITHUB](https://github.com/marlonvtomazin/weatherForecast) | [Link da aplicação](https://weatherforecastv1.netlify.app/)
 
 
 ### 🤝 Onde me encontrar:
