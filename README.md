@@ -11,7 +11,7 @@
 * **Tecnologias Usadas:** `HTML`, `CSS`, `Javascript`
 * [GITHUB](https://github.com/marlonvtomazin/traktApiV2) | [Link da aplicação](https://traktapiv2.netlify.app/)
 
-#### Weather Forecast
+#### Previsão do tempo
 * **Descrição:** Projeto simples que busca a previsão do tempo com base na cidade digitada.
 * **Tecnologias Usadas:** `HTML`, `CSS`, `Javascript`
 * [GITHUB](https://github.com/marlonvtomazin/weatherForecast) | [Link da aplicação](https://weatherforecastv1.netlify.app/)
