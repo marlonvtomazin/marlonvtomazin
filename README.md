@@ -2,7 +2,7 @@
 <!--
 🧠 *CEO on Brainless*.
 -->
-![Visitas](https://komarev.com/ghpvc/?username=marlonvtomazin&color=blue)
+![Visitas](https://komarev.com/ghpvc/?username=marlonvtomazin&color=blue&label=Visitas)
 
 ### 🚀 Projetos em Destaque
 
