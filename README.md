@@ -1,7 +1,4 @@
 # Marlon Vitor Tomazin
-<!--
-🧠 *CEO on Brainless*.
--->
 ![Visitas](https://komarev.com/ghpvc/?username=marlonvtomazin&color=brightgreen&label=Visitas&style=for-the-badge)
 
 ### 🚀 Projetos em Destaque
@@ -15,6 +12,26 @@
 * **Descrição:** Projeto simples que busca a previsão do tempo com base na cidade digitada.
 * **Tecnologias Usadas:** `HTML`, `CSS`, `Javascript`
 * [GITHUB](https://github.com/marlonvtomazin/weatherForecast) | [Link da aplicação](https://weatherforecastv1.netlify.app/)
+
+### 💻 Linguagens de programação
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</div>
+
+### 💻 Frameworks
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+</div>
+
+### 💻 Testes de performance
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
+  <img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="100" height="100"/>
+</div>
 
 
 ### 🤝 Onde me encontrar:
