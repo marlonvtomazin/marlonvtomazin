@@ -24,6 +24,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://www.cypress.io/cypress_logo_social.png" alt="Cypress" width="80" height="80"/>
 </div>
 
 ### 💻 Testes de performance
@@ -38,6 +39,11 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*ap0NRizcKwuX5gfzKqEk6Q.png" alt="Postman" width="120" height="120"/>
 </div>
 
+### Outros
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</div>
 
 ### 🤝 Onde me encontrar:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-tomazin/)
