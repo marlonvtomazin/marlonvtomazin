@@ -33,6 +33,11 @@
   <img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="100" height="100"/>
 </div>
 
+### 🛠️ Ferramentas
+<div align="left">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*ap0NRizcKwuX5gfzKqEk6Q.png" alt="Postman" width="120" height="120"/>
+</div>
+
 
 ### 🤝 Onde me encontrar:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-tomazin/)
