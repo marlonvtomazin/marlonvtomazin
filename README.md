@@ -13,6 +13,11 @@
 * **Tecnologias Usadas:** `HTML`, `CSS`, `Javascript`
 * [GITHUB](https://github.com/marlonvtomazin/weatherForecast) | [Link da aplicação](https://weatherforecastv1.netlify.app/)
 
+#### Microserviços em Node + RabbitMQ + Docker
+* **Descrição:** Projeto simples de microserviços utilizando Docker e RabbitMQ para notificações.
+* **Tecnologias Usadas:** `NodeJS`, `MongoDB`, `Docker`, 
+* [GITHUB](https://github.com/marlonvtomazin/basic-nodejs-microservices)
+
 ### 💻 Linguagens de programação
 
 <div align="left">
