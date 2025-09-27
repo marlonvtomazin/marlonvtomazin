@@ -33,6 +33,12 @@
   <img src="https://www.cypress.io/cypress_logo_social.png" alt="Cypress" width="80" height="80"/>
 </div>
 
+### 💾 Banco de Dados
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</div>
+
 ### 💻 Testes de performance
 
 <div align="left">
@@ -43,6 +49,8 @@
 ### 🛠️ Ferramentas
 <div align="left">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*ap0NRizcKwuX5gfzKqEk6Q.png" alt="Postman" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </div>
 
 ### 📚 Outros
