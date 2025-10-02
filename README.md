@@ -52,6 +52,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*ap0NRizcKwuX5gfzKqEk6Q.png" alt="Postman" width="120" height="120"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://browserflow.io/images/N8N-badge.png" alt="n8n" width="40" height="40"/>
 </div>
 
 ### 📚 Outros
