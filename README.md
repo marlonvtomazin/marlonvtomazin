@@ -31,7 +31,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.cypress.io/cypress_logo_social.png" alt="Cypress" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40"/>
+  
 </div>
 
 ### 💾 Banco de Dados
@@ -40,11 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </div>
 
-### 💻 Testes de performance
+### 💻 Testes de performance & QA
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
   <img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="100" height="100"/>
+  <img src="https://www.cypress.io/cypress_logo_social.png" alt="Cypress" width="80" height="80"/>
 </div>
 
 ### 🛠️ Ferramentas
