@@ -16,7 +16,7 @@
 
 #### Microserviços em Node + RabbitMQ + Docker
 * **Descrição:** Projeto simples de microserviços utilizando Docker e RabbitMQ para notificações.
-* **Tecnologias Usadas:** `NodeJS`, `MongoDB`, `Docker`, 
+* **Tecnologias Usadas:** `NodeJS`, `MongoDB`, `RabbitMQ`, `Docker`, 
 * [GITHUB](https://github.com/marlonvtomazin/basic-nodejs-microservices)
 
 #### Landing page com agent de IA
