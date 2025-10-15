@@ -19,7 +19,7 @@
 * [GITHUB](https://github.com/marlonvtomazin/basic-nodejs-microservices)
 
 #### Landing page com agent de IA
-* **Descrição:** Landing page simples com um agent de IA que responde dúvida sobre o site.
+* **Descrição:** Landing page simples com um agent de IA que responde dúvidas sobre o site.
 * **Tecnologias Usadas:** `HTML`, `CSS`, 
 * [GITHUB](https://github.com/marlonvtomazin/landing-page-coffe-shop) | [Link da aplicação](https://landing-page-coffe-shop.netlify.app/)
 
