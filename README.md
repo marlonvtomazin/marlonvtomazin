@@ -23,6 +23,11 @@
 * **Descrição:** Landing page simples com um agent de IA que responde dúvidas sobre o site.
 * **Tecnologias Usadas:** `HTML`, `CSS`, 
 * [GITHUB](https://github.com/marlonvtomazin/landing-page-coffe-shop) | [Link da aplicação](https://landing-page-coffe-shop.netlify.app/)
+* 
+#### Criação de agent de IA
+* **Descrição:** Script em python de um agent de IA usando langchain e script em javascript utilizando langgraph e tavily.
+* **Tecnologias Usadas:** `Python`, `Javascript`, `LangChain`, `LangGraph` 
+* [GITHUB](https://github.com/marlonvtomazin/basic-langchain-iaagent)
 
 ## 🧠 Conhecimentos
 ### 💻 Linguagens de programação
