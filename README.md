@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://www.vhv.rs/dpng/d/35-351319_flask-logo-png-transparent-png.png" alt="Flask" width="40" height="40"/>
-  
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/langchain-color.png" alt="LangChain" width="60" height="60"/>
 </div>
 
 ### 💾 Banco de Dados
