@@ -26,7 +26,7 @@
 
 #### Criação de agent de IA
 * **Descrição:** Script em python de um agent de IA usando langchain e script em javascript utilizando langgraph e tavily.
-* **Tecnologias Usadas:** `Python`, `Javascript`, `LangChain`, `LangGraph` 
+* **Tecnologias Usadas:** `Python`, `Javascript`, `LangChain`, `LangGraph`, `Tavily`
 * [GITHUB](https://github.com/marlonvtomazin/basic-langchain-iaagent)
 
 ## 🧠 Conhecimentos
